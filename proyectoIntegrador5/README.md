@@ -21,7 +21,7 @@ Este es un juego de laberinto de consola en Python, donde el objetivo es llegar 
    - Te dara la bienvenida y pedira que presiones cualquier tecla para inciar el juego.
    - Seleccionará un laberinto aleatorio de una carpeta de mapas.
    - Usa las teclas de flecha para moverte por el laberinto y llegar al punto final.
-   - Los '.' son el camino, '#' paredes y 'P' el jugador.
+   - Los `'.'` son el camino, `'#'` paredes y `'P'` el jugador.
    - Al ganar te felicita el juego.
 
 ## Estructura del proyecto
